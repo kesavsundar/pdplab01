@@ -1,0 +1,26 @@
+Date	Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+9/5		Kesav	16.00		16.50		5					1				50				Setting up the laptop for CS 5010
+9/5 	Kesav	17.00		17.15		0					2				15				Understanding Git
+9/9		Kesav	20.45		20.50		0					3				5				Posting my self introduction in piazza
+9/9 	Kesav	20.50		21.00		0					4				10				Posting the picture of design recipe in piazza
+9/12	Kesav	18.00		18.10		0					Racket Lab:1	10				Answering q1
+9/12	Kesav	18.30		18.40		0					Racket Lab:2	10				Answering q2
+9/15	Kesav	19.55		20.05		0					Racket Lab:3	10				Answering q3
+9/15	Kesav	20.05		20.15		0					Racket Lab:4	10				Answering q4
+9/15	Kesav	20.15		20.20		0					Racket Lab:5	5				Answering q5
+9/15	Kesav	20.20		20.40		0					Racket Lab:6	20				Answering q6
+9/15	Kesav	20.40		20.45		0					Racket Lab:7	5				Answering q7
+9/15	Kesav	20.45		20.50		0					Racket Lab:8	5				Answering q8
+9/15	Kesav	20.50		21.10		0					Racket Lab:9	20				Answering q9
+9/16	Kesav	1.15		1.30		0					Racket Lab:10	15				Answering q10
+============committing to git: 9/18 17:50 ===================
+Total Time On Task Q1 (minutes)                  50 
+Total Time On Task Q2 (minutes)                  15 
+Total Time On Task Q3 (minutes)                  5 
+Total Time On Task Q4 (minutes)                  10 
+Total Time On Task Q5 (minutes)                  110 
+TOTQ1 (hours and tenths)                         .8 
+TOTQ2 (hours and tenths)                         .25
+TOTQ3 (hours and tenths)                         .08 
+TOTQ4 (hours and tenths)                         .16
+TOTQ5 (hours and tenths)                         1.83 
